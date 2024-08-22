@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "cursor"
+version = "0.0.0"
+description = "Cursor is a modern online learning platform that offers an intuitive interface, flexible customization options, and advanced integration features with other tools. It provides opportunities for adaptation to the needs of individual courses and users, ensuring easy content management."
+authors = ["SavinDevelop <savinnikita602@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
